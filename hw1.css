@@ -1,0 +1,203 @@
+ header {
+  background-color: white;
+  
+  text-align: center;
+  font-size: 35px;
+  color: white;
+   
+  top: 0;
+  left: 0;
+  width: 1508px;
+  height: 10%;
+
+}
+img{
+margin-right: 1200px;
+
+
+}
+
+ hr {
+    border: none; 
+    background-color: red; 
+    color: red; 
+    height: 15px;
+    margin-top: -1px; 
+      position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+   }
+
+
+
+ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: -30px; /*убираем отступы*/
+  margin-right: 20px;
+  padding-left:550px; /*убираем отступы*/
+  margin-top:22px; /*делаем отступ сверху*/
+  background:black; /*добавляем фон всему меню (заменив этот параметр, вы поменяете цвет всего меню)*/
+  height: 30px; 
+  width: 983px;/*задаем высоту*/
+
+}
+a {
+  height: 30px;
+  text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  background:grey; /*добавляем фон к пункту меню (заменив этот параметр, вы поменяете цвет всех пунктов меню)*/
+  color:white; /*меняем цвет ссылок*/
+  padding:0px 30px; /*добавляем отступ*/
+  font-size: 15px;
+  font-family: arial; /*меняем шрифт*/
+  line-height:30px; /*ровняем меню по вертикали*/
+  display: block; 
+  border-right: 1px solid black; /*добавляем бордюр справа*/
+  -moz-transition: all 0.3s 0.01s ease; /*делаем плавный переход*/
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;
+}
+a:hover {
+  background:#D43737;/*добавляем эффект при наведении*/
+}
+li {
+  float:left; /*Размещаем список горизонтально для реализации меню*/
+}
+.azil {
+  float: right;
+  height: 1500px;
+  width: 1600px;
+  background-color: #777;
+}
+
+
+.azila {
+  float: right;
+  height: 1900px;
+  width: 1600px;
+  background-color: #777;
+}
+.aziii {
+  float: right;
+  height: 2800px;
+  width: 1600px;
+  background-color: #777;
+}
+
+.azi{
+ margin-right: -65px;
+
+}
+.home{
+  margin-top: 100px;
+  margin-right: 350px;
+
+}
+.hom{
+font-size: 16px;
+  margin-left: 335px;
+  text-align: left;
+    
+
+}
+.homa{
+  font-size: 16px;
+  margin-left: 335px;
+  text-align: left;
+margin-top: 1px;
+margin-bottom: 1px;
+
+}
+.video{
+ 
+  margin-top: 50px;
+}
+
+footer {
+  float: right;
+  background-color: darkgray;
+  width: 1515px;
+  text-align: center;
+  color: white;
+}
+.fot{
+  font-size: 17px;
+}
+.homee{
+  text-align:left ;
+  margin-left: 330px;
+}
+.rightimg{
+float: right;
+ margin: 0 0 0px 0px;
+ margin-right: 250px;
+ margin-top: -325px;
+}
+
+.rightim{
+float: right;
+ margin: 0 0 0px 0px;
+ margin-right: 250px;
+ margin-top: -285px;
+}
+
+.righti{
+  width: 600px;
+  height: 500px;
+
+ margin: 0 0 0px 0px;
+ margin-right: 335px;
+ margin-top: 20px;
+}
+.homaw{
+  text-align:left ;
+  margin-left: 330px;
+   font-size: 16px;
+  margin-right: 645px;
+  text-align: left;
+margin-top: 1px;
+margin-bottom: 1px;
+
+}
+ .boks{
+  background-color: darkgray;
+
+  border: 1px;
+  color: white;
+  width: 1000px;
+  height: 250px;
+  margin-left: 330px;
+  margin-top: 40px;
+ }
+ .righ{
+float: right;
+ margin: 0 0 0px 0px;
+ margin-right: 50px;
+ margin-top: -150px;
+}
+.homan{
+  font-size: 16px;
+  margin-left: 15px;
+  margin-right: 320px;
+  text-align: left;
+margin-top: 1px;
+margin-bottom: 1px;
+
+}
+.table{
+   border:1px solid black;
+   width:100%
+    border-top: 3px solid grey;
+    caption-side: bottom;
+   text-align: right;
+   padding: 10px 0;
+   font-size: 14px;
+}
+
+th {
+   width: 30%;
+   height: 10px;
+}
+td:first-child {
+   width: 30%;
+}
